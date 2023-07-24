@@ -1,0 +1,108 @@
+div .profesi {
+  font-weight: bold;
+  margin-top: -10px;
+}
+
+div p {
+  margin-top: -10px;
+  /* border: 1px solid red; */
+}
+
+.kotak {
+  height: 800px;
+  /* border: 1px solid red; */
+}
+
+.me {
+  display: flex;
+  /* height: 25%; */
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+.meleft {
+  width: 20%;
+  height: 100%;
+  text-align: justify;
+  /* border: 1px solid red; */
+  text-indent: 50px;
+}
+
+.meright {
+  width: 80%;
+  height: 100%;
+  padding-left: 50px;
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+  margin-top: 10px;
+}
+
+.ne {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+.neleft {
+  width: 20%;
+  height: 100%;
+}
+
+.neright {
+  width: 80%;
+  height: 100%;
+  padding-left: 50px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.fw {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+.fwleft {
+  width: 20%;
+  height: 100%;
+}
+
+.fwright {
+  width: 80%;
+  height: 100%;
+  padding-left: 50px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.art {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  padding-bottom: 200px;
+}
+
+.artleft {
+  width: 20%;
+  height: 100%;
+}
+
+.artright {
+  width: 80%;
+  height: 100%;
+  padding-left: 50px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.box-skills {
+  display: flex;
+  flex-direction: row;
+}
+
+.skills ol,
+.value-skills ol {
+  list-style: none;
+  border: 1px solid red;
+  width: 50px;
+}
